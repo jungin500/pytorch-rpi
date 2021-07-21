@@ -10,6 +10,7 @@ PyTorch binaries for Raspberry Pi OS (Debian 10 Buster)
 - OS: Raspberry Pi OS Lite 2021-05-28 ([32bit](https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2021-05-28/)/[64bit](https://downloads.raspberrypi.org/raspios_lite_arm64/images/raspios_lite_arm64-2021-05-28/), respectively)
 - Python: 3.7.3 (OS-specific version of `apt-get install python3 python3-dev`)
 - Pip3: 21.1.3 ([removed `python3-pip` package, and clean-installed newer one with `get-pip.py`](https://pip.pypa.io/en/stable/installing/#installing-with-get-pip-py))
+- Numpy: 1.16.2
 
 ## Build options
 ```
